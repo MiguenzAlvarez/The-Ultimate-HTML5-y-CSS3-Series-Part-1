@@ -1,0 +1,24 @@
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: dodgerblue;
+    box-shadow: 0px 0px 200px grey;
+}
+h1 {
+    color: white;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+background-color: rgba(175, 184, 18, 0.5);
+background: linear-gradient(to bottom right, dodgerblue, yellow, tomato);
+background: radial-gradient(cicle at top left, white, yellow) 
+
+css  gadient:background: rgb(2, 0, 36);
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(121, 9, 97, 1) 50%, rgba(0, 153, 255, 1) 100%);
+border border-top: 2px solid royalblue;
+border-width: 10px 20px 10px 20px;
+/* trbl */
+border-radius: 10px;
+border-color: aliceblue;
+border-style: dashed;
